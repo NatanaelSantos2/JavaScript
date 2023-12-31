@@ -1,4 +1,4 @@
-Nessa aula de JavaScript na TreinaWeb eu tive os seguintes conhecimento, além dos varios exercicios feitos e projeto.
+Nessa aula de JavaScript na TreinaWeb eu tive varios conhecimentos sobre, além dos varios exercicios feitos e projeto.
 
 1. Apresentação
 2. Conhecendo o JavaScript
